@@ -1,3 +1,0 @@
-/Users/gary/CLionProjects/FileStroageSystem/cmake-build-debug/CMakeFiles/FileStroageSystem.dir
-/Users/gary/CLionProjects/FileStroageSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/gary/CLionProjects/FileStroageSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
