@@ -8,8 +8,8 @@
 #include <linux/pagemap.h>
 #include <linux/printk.h>
 #include <linux/kernel.h>
-#include "ezfs.h"
-#include "ezfs_ops.h"
+#include "fileStorage.h"
+#include "fileStorageOperations.h"
 
 static inline struct buffer_head *
 check_buffer_head(struct buffer_head *bh, const char *msg)

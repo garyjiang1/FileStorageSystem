@@ -11,7 +11,7 @@
 /* These are the same on a 64-bit architecture */
 #define timespec64 timespec
 
-#include "ezfs.h"
+#include "fileStorage.h"
 
 void
 passert(int condition, char *message)
