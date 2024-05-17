@@ -1,9 +1,9 @@
 obj-m += ez.o
 
-all: kmod format_disk_as_ezfs
+all: kmod format_file_storage
 
-format_disk_as_ezfs: CC = gcc
-format_disk_as_ezfs: CFLAGS = -g -Wall
+format_file_storage: CC = gcc
+format_file_storage: CFLAGS = -g -Wall
 
 PHONY += kmod
 kmod:
